@@ -1,4 +1,4 @@
-AirMate is a multimodal AI assistant designed to revolutionize the airline experience for both passengers and staff. With a seamless Gradio-based interface, AirMate offers voice-based interactions, visual assistance, and intelligent responses — all in one lightweight application.
+Airline is a multimodal AI assistant designed to revolutionize the airline experience for both passengers and staff. With a seamless Gradio-based interface, AirMate offers voice-based interactions, visual assistance, and intelligent responses — all in one lightweight application.
 
 🔧 Key Features:
 🎙️ Voice-to-Text with OpenAI TTS-1
